@@ -7,12 +7,7 @@ namespace DevWeb1.Controllers
     [Route("Aluno")]
     public class AlunoController : ControllerBase
     {
-        //sintaxe de uma função é a visibilidade da função
-        // visibilidade da função: public, private, protected
-        //pritvate so a classe acessar
-        //Tipo de retorno
-        //nome da funça
-        //parâmetros
+
         [HttpGet]
 
         public IActionResult Saudacao()
