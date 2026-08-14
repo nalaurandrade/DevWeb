@@ -3,7 +3,5 @@
  **PRIVATE** - Só a classe pode acessar
 
  **Tipo de retorno,nome da função,parâmetros** 
-
  **Nome da função**
- 
  **Parâmetros**
