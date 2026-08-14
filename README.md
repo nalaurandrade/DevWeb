@@ -1,11 +1,7 @@
-# DevWeb
-Desenvolvimento de Aplicativos Web e Cloud Computing
+ **SINTAXE** - visibilidade da função
+ **VISIBILIDADE DA FUNÇÃO** - Public; private; protected
+ **PRIVATE** - Só a classe pode acessar
 
-        **SINTAXE** de uma função é a visibilidade da função
-        **VISIBILIDADE** da função: public, private, protected
-        
-        - pritvate - so a classe acessar
-
-        Tipo de retorno
-        nome da função
-        parâmetros
+ **Tipo de retorno**  
+ **Nome da função**
+ **Parâmetros**
