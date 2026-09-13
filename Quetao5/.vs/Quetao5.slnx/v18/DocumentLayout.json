@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\quetao5\\quetao5\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|solutionrelative:quetao5\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\quetao5\\quetao5\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|solutionrelative:quetao5\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\quetao5\\quetao5\\validations\\produtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|solutionrelative:quetao5\\validations\\produtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\quetao5\\quetao5\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|solutionrelative:quetao5\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\quetao5\\quetao5\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|solutionrelative:quetao5\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\quetao5\\quetao5\\quetao5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D70C4B2-BC8E-4218-A8BD-F0BDF8E35ADE}|Quetao5\\Quetao5.csproj|solutionrelative:quetao5\\quetao5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoValidation.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Validations\\ProdutoValidation.cs",
+              "RelativeDocumentMoniker": "Quetao5\\Validations\\ProdutoValidation.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Validations\\ProdutoValidation.cs",
+              "RelativeToolTip": "Quetao5\\Validations\\ProdutoValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:53:44.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Quetao5\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "Quetao5\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:51:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Quetao5\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "Quetao5\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:51:17.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Quetao5\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Quetao5\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:43:12.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Quetao5\\Models\\Produto.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Models\\Produto.cs",
+              "RelativeToolTip": "Quetao5\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:45:30.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quetao5",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Quetao5.csproj",
+              "RelativeDocumentMoniker": "Quetao5\\Quetao5.csproj",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\Quetao5\\Quetao5\\Quetao5.csproj",
+              "RelativeToolTip": "Quetao5\\Quetao5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-13T18:43:58.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
