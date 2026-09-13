@@ -1,16 +1,6 @@
 [
   {
     "ContainingType": "DevWeb1.Controllers.AlunoController",
-    "Method": "Saudacao",
-    "RelativePath": "Aluno",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DevWeb1.Controllers.AlunoController",
     "Method": "Cadastrar",
     "RelativePath": "Aluno",
     "HttpMethod": "POST",
@@ -21,6 +11,96 @@
         "Name": "aluno",
         "Type": "DevWeb1.Models.Aluno",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevWeb1.Controllers.AlunoController",
+    "Method": "Atualizar",
+    "RelativePath": "Aluno/Atualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluno",
+        "Type": "DevWeb1.Models.Aluno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevWeb1.Controllers.AlunoController",
+    "Method": "ListarAlunos",
+    "RelativePath": "Aluno/ListarAlunos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevWeb1.Controllers.AlunoController",
+    "Method": "obterporRa",
+    "RelativePath": "Aluno/obterPorRa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ra",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevWeb1.Controllers.AlunoController",
+    "Method": "OutraSaudacao",
+    "RelativePath": "Aluno/OutraSaudacao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevWeb1.Controllers.AlunoController",
+    "Method": "Remover",
+    "RelativePath": "Aluno/Remover/{ra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ra",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevWeb1.Controllers.AlunoController",
+    "Method": "Saudacao",
+    "RelativePath": "Aluno/Saudacao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

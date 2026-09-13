@@ -13,7 +13,49 @@
     }
   ],
   "paths": {
-    "/Aluno": {
+    "/Aluno/Saudacao": {
+      "get": {
+        "tags": [
+          "Aluno"
+        ],
+        "parameters": [
+          {
+            "name": "nome",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno/OutraSaudacao": {
+      "get": {
+        "tags": [
+          "Aluno"
+        ],
+        "parameters": [
+          {
+            "name": "nome",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno/ListarAlunos": {
       "get": {
         "tags": [
           "Aluno"
@@ -23,7 +65,30 @@
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/Aluno/obterPorRa": {
+      "get": {
+        "tags": [
+          "Aluno"
+        ],
+        "parameters": [
+          {
+            "name": "ra",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno": {
       "post": {
         "tags": [
           "Aluno"
@@ -48,6 +113,60 @@
           },
           "required": true
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno/Atualizar": {
+      "put": {
+        "tags": [
+          "Aluno"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Aluno"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Aluno"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Aluno"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Aluno/Remover/{ra}": {
+      "delete": {
+        "tags": [
+          "Aluno"
+        ],
+        "parameters": [
+          {
+            "name": "ra",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -98,15 +217,32 @@
   "components": {
     "schemas": {
       "Aluno": {
+        "required": [
+          "nome",
+          "email",
+          "ra",
+          "cpf",
+          "ativo"
+        ],
         "type": "object",
         "properties": {
           "nome": {
+            "maxLength": 50,
+            "minLength": 0,
             "type": "string"
           },
           "email": {
             "type": "string"
           },
           "ra": {
+            "maxLength": 6,
+            "minLength": 0,
+            "type": "string"
+          },
+          "cpf": {
+            "type": "string"
+          },
+          "ativo": {
             "type": "string"
           }
         }

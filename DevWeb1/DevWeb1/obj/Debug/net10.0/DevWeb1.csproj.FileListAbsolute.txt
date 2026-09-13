@@ -32,3 +32,4 @@ C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\DevWeb\DevW
 C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\DevWeb\DevWeb1\DevWeb1\obj\Debug\net10.0\DevWeb1.pdb
 C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\DevWeb\DevWeb1\DevWeb1\obj\Debug\net10.0\DevWeb1.genruntimeconfig.cache
 C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\DevWeb\DevWeb1\DevWeb1\obj\Debug\net10.0\ref\DevWeb1.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\DevWeb\DevWeb1\DevWeb1\obj\Debug\net10.0\DevWeb1.sourcelink.json

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\devweb1\\devweb1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|solutionrelative:devweb1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\devweb1\\devweb1\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|solutionrelative:devweb1\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\devweb1\\devweb1\\validations\\idadevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|solutionrelative:devweb1\\validations\\idadevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\devweb1\\devweb1\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|solutionrelative:devweb1\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\devweb1\\devweb1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|solutionrelative:devweb1\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\devweb\\devweb1\\devweb1\\repositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C1DA67-12C4-6B29-59AD-FC990839DD2F}|DevWeb1\\DevWeb1.csproj|solutionrelative:devweb1\\repositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "DevWeb1\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "DevWeb1\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T17:55:32.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdadeValidation.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Validations\\IdadeValidation.cs",
+              "RelativeDocumentMoniker": "DevWeb1\\Validations\\IdadeValidation.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Validations\\IdadeValidation.cs*",
+              "RelativeToolTip": "DevWeb1\\Validations\\IdadeValidation.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T17:50:21.632Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -27,27 +65,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "DevWeb1\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "DevWeb1\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T17:47:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "DevWeb1\\Models\\Aluno.cs",
               "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Models\\Aluno.cs",
               "RelativeToolTip": "DevWeb1\\Models\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T22:55:23.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Controllers\\AlunoController.cs",
-              "RelativeDocumentMoniker": "DevWeb1\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Controllers\\AlunoController.cs",
-              "RelativeToolTip": "DevWeb1\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Repositories\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "DevWeb1\\Repositories\\IAlunoRepository.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\DevWeb\\DevWeb1\\DevWeb1\\Repositories\\IAlunoRepository.cs",
+              "RelativeToolTip": "DevWeb1\\Repositories\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T00:28:59.314Z",
+              "WhenOpened": "2026-09-10T22:32:56.984Z",
               "EditorCaption": ""
             }
           ]
